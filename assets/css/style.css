@@ -387,8 +387,8 @@ body {
     display: inline-block;
     padding: 17px 43px;
     border-radius: 50px;
-    background-color: #2C3E50;
-    color: #FFFFFF;
+    background-color: #FFFFFF;
+    color: #2C3E50;
     font-size: 20px;
     transition-duration: .3s;
     transition-property: transform;
