@@ -375,7 +375,7 @@ body {
     content: "";
     background: url(../image/about-right-img.jpg) no-repeat top right;
     position: absolute;
-    width: 529px;
+    /*width: 529px;*/
     height: 450px;
     right: 0;
     top: 55%;
